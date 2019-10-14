@@ -1,0 +1,40 @@
+{
+  "_from": "github:theme-next/hexo-next-coauthor",
+  "_id": "hexo-next-coauthor@0.0.2",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/hexo-next-coauthor",
+  "_phantomChildren": {
+    "argparse": "1.0.10",
+    "esprima": "4.0.0"
+  },
+  "_requested": {
+    "type": "git",
+    "raw": "theme-next/hexo-next-coauthor",
+    "rawSpec": "theme-next/hexo-next-coauthor",
+    "saveSpec": "github:theme-next/hexo-next-coauthor",
+    "fetchSpec": null,
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "github:theme-next/hexo-next-coauthor#d9e8368bd87b5835f65ca85fdb8fe5b005eafcda",
+  "_spec": "theme-next/hexo-next-coauthor",
+  "_where": "/Applications/MAMP/Services/HuixingBlog",
+  "author": "",
+  "bundleDependencies": false,
+  "dependencies": {
+    "js-yaml": "^3.13.1"
+  },
+  "deprecated": false,
+  "description": "![Theme Version](https://img.shields.io/badge/NexT-v7.3.0+-blue?style=flat-square) ![Package Version](https://img.shields.io/github/package-json/v/theme-next/hexo-next-coauthor?style=flat-square)",
+  "license": "LGPL-3.0",
+  "main": "index.js",
+  "name": "hexo-next-coauthor",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.2"
+}
